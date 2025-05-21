@@ -7,7 +7,6 @@ first_name: Aviya
 middle_name:
 last_name: Litman
 contact_note: >
-  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A computational biologist specializing in deep learning for genomics.
 footer_text: >
