@@ -193,7 +193,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-# CUSTOM EXCLUSIONS:
+  # CUSTOM EXCLUSIONS:
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/profiles.md
