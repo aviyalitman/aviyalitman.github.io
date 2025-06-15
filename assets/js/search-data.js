@@ -376,14 +376,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-paper-was-accepted-to-nature-genetics-coming-soon-tada",
+            },},{id: "news-my-work-was-featured-in-the-transmitter",
+          title: 'My work was featured in The Transmitter!',
+          description: "",
+          section: "News",},{id: "news-my-paper-was-accepted-to-nature-genetics-coming-soon-tada",
           title: 'My paper was accepted to Nature Genetics! Coming soon! :tada:',
           description: "",
           section: "News",},{id: "news-i-gave-a-main-talk-in-the-winter-q-bio-conference-in-ko-olina-hawaii-palm-tree",
           title: 'I gave a main talk in the Winter Q-Bio conference in Ko Olina,...',
-          description: "",
-          section: "News",},{id: "news-my-work-was-featured-in-the-transmitter",
-          title: 'My work was featured in The Transmitter!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
