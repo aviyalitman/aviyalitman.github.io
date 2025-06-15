@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a main talk in the Winter Q-Bio conference in Ko Olina, Hawaii :palm_tree:
+I gave a main talk at the Winter Q-Bio conference in Ko Olina, Hawaii :palm_tree:
