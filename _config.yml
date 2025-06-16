@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Aviya
+first_name:
 middle_name:
-last_name: Litman
+last_name: Aviya Litman
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A computational biologist specializing in deep learning for genomics.
@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: computational-biology, machine-learning, academic-website, AI4Science, deep-learning, genomics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🐳 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/prof_pic.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://aviyalitman.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
