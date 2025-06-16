@@ -11,26 +11,26 @@
   contents:
     - title: Ph.D. in Computational Biology
       institution: Princeton University
-      year: 2027
+      year: 2022-present
     - title: M.A. in Computational Biology
       institution: Princeton University
-      year: 2024
+      year: 2022-2024
     - title: B.A. in Mathematics
       institution: Columbia University
-      year: 2021
+      year: 2018-2021
 
 - title: Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant
       institution: Princeton University
-      year: 2022 - Present
+      year: 2022-present
     - title: Summer Research Associate
       institution: Flatiron Institute, Simons Foundation
-      year: 2024 - Present
+      year: 2024-present
     - title: Data Science Scholar / Research Associate
       institution: Columbia University Medical Center
-      year: 2020 - 2022
+      year: 2020-2022
     - title: Laboratory Technician
       institution: Zuckerman Mind Brain Behavior Institute, Columbia University
       year: 2019
