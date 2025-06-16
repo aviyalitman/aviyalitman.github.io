@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Don't worry, be cappy!
+subtitle:
 
 profile:
   align: right
