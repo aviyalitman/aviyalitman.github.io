@@ -1,8 +1,10 @@
-- title: General Information
+- title:
   type: map
   contents:
     - name: Full Name
       value: Aviya Litman
+    - name: email
+      value: aviya@princeton.edu
 
 - title: Education
   type: time_table
@@ -10,6 +12,9 @@
     - title: Ph.D. in Computational Biology
       institution: Princeton University
       year: 2027
+    - title: M.A. in Computational Biology
+      institution: Princeton University
+      year: 2024
     - title: B.A. in Mathematics
       institution: Columbia University
       year: 2021
