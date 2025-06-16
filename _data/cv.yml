@@ -1,7 +1,7 @@
 - title:
   type: map
   contents:
-    - name: Full Name
+    - name: name
       value: Aviya Litman
     - name: email
       value: aviya@princeton.edu
