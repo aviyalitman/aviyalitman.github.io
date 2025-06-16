@@ -377,7 +377,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-my-work-was-featured-in-the-transmitter",
-          title: 'My work was featured in The Transmitter!',
+          title: 'My work was featured in The Transmitter! 🧠',
           description: "",
           section: "News",},{id: "news-i-gave-a-main-talk-at-the-winter-q-bio-conference-in-ko-olina-hawaii-palm-tree",
           title: 'I gave a main talk at the Winter Q-Bio conference in Ko Olina,...',
