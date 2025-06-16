@@ -12,9 +12,11 @@
     - title: PhD
       institution: Princeton University
       year: 2022-Current
+      
     - title: M.A.
       institution: Princeton University
       year: 2022-2024
+      
     - title: B.A.
       institution: Columbia University
       year: 2018-2021
@@ -25,27 +27,15 @@
     - title: Graduate Student Researcher
       institution: Princeton University
       year: 2022-Current
+      
     - title: Summer Research Associate
       institution: Flatiron Institute, Simons Foundation
       year: Summer 2024, Summer 2025
+      
     - title: Data Science Institute Scholar and Research Associate
       institution: Columbia University
       year: 2020-2022
+      
     - title: Laboratory Technician
       institution: Zuckerman Mind Brain Behavior Institute, Columbia University
       year: 2019
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - NSF GRFP Honorable Mention
-    - year: 2022
-      items:
-        - Lewis‑Sigler Institute Scholars Award
-    - year: 2021
-      items:
-        - Columbia Data Science Institute Scholar
-    - year: 2019
-      items: Columbia Emerging Scholar in CS
