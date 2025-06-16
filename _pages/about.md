@@ -31,7 +31,7 @@ My priorities at the moment are:
 
 - AI4Science
 - precision health & medicine
-- (learning about) drug development.
+- (learning about) drug development
 
 I'm always seeking to do meaningful work with genuine potential for translational impact on human health!
 
