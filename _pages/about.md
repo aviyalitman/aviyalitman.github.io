@@ -35,4 +35,4 @@ My priorities at the moment are:
 
 I'm always seeking to do meaningful work with genuine potential for translational impact on human health!
 
-Outside of work, I'm currently thinking about species conservation (check out the [manatees in Florida](https://www.visitmanateelagoon.com) and visit if you get a chance) and capybaras (fun fact: I was a huge capybara fan even before they went viral). In college, I fostered several aquatic snails (Shrimpy, Barbara, and Night).
+Outside of work, I'm currently thinking about species conservation (check out the [manatees in Florida](https://www.visitmanateelagoon.com)) and capybaras (fun fact: I was a huge capybara fan even before they went viral). In college, I fostered several aquatic snails (Shrimpy, Barbara, and Night).
