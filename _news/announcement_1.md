@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper was accepted to Nature Genetics! Coming soon! :tada:
+My paper is now out in [*Nature Genetics*](https://doi.org/10.1038/s41588-025-02224-z)! 🎉
