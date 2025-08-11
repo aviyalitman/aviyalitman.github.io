@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work was featured in [The Transmitter](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/)! 🧠
+I will be interning at the Simons Foundation (Flatiron Institute) this upcoming Summer 2025 in NYC! 🧠
