@@ -376,8 +376,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-work-was-featured-in-the-transmitter",
-          title: 'My work was featured in The Transmitter! 🧠',
+            },},{id: "news-i-will-be-interning-at-the-simons-foundation-flatiron-institute-this-upcoming-summer-2025-in-nyc",
+          title: 'I will be interning at the Simons Foundation (Flatiron Institute) this upcoming Summer...',
           description: "",
           section: "News",},{id: "news-i-gave-a-main-talk-at-the-winter-q-bio-conference-in-ko-olina-hawaii-palm-tree",
           title: 'I gave a main talk at the Winter q-Bio conference in Ko Olina,...',
