@@ -37,4 +37,4 @@ I'm seeking to do meaningful work with genuine potential for impact on human hea
 - precision health & medicine
 - (learning about) drug development
 
-Outside of work, I'm currently thinking about species conservation (check out the [manatees in Florida](https://www.visitmanateelagoon.com)) and capybaras (fun fact: I was a huge capybara fan even before they went viral). In college, I fostered several aquatic snails (Shrimpy, Barbara, and Night). [#FreeEdTheZebra](https://www.npr.org/2025/06/09/nx-s1-5427942/runaway-pet-zebra-captured-tennessee)
+Outside of work, I'm currently thinking about [species conservation](https://www.visitmanateelagoon.com) and capybaras (fun fact: I was a huge capybara fan even before they went viral). In college, I fostered several aquatic snails 🐌 (Shrimpy, Barbara, and Night). [#FreeEdTheZebra](https://www.npr.org/2025/06/09/nx-s1-5427942/runaway-pet-zebra-captured-tennessee)
