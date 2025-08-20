@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Aviya. I am currently a Ph.D. Candidate in Computational Biology working with [Prof. Olga Troyanskaya](https://function.princeton.edu). For the past two summers, I have also been interning at the [Flatiron Institute (Simons Foundation)](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/), where I've been working on some cool projects at the intersection of machine learning, computational genomics, and the genetics of neurodevelopment. 
+Hi! I'm Aviya. I am currently a Ph.D. Candidate in Computational Biology working with [Prof. Olga Troyanskaya](https://function.princeton.edu). For the past two summers, I have also been interning at the [Flatiron Institute (Simons Foundation)](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/), where I've been working on some cool projects at the intersection of machine learning, computational genomics, and neurodevelopment. 
 
-Some of my work has been featured in the press ([Scientific American](https://www.scientificamerican.com/article/four-new-autism-subtypes-link-genes-to-childrens-traits/), [The Transmitter](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/), among others). 
+Some of my work has been featured in the press ([Scientific American](https://www.scientificamerican.com/article/four-new-autism-subtypes-link-genes-to-childrens-traits/), [The Transmitter](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/), among others) and in [podcasts](https://podcasts.apple.com/us/podcast/autism-science-foundation-weekly-science-report/id1017003702?i=1000719374439). I particularly enjoyed [this take](https://www.thetransmitter.org/spectrum/the-spectrum-goes-multidimensional-in-search-of-autism-subtypes/) on my work, which argues that our approach of parsing multidimensional heterogeneity may improve clinical trial outcomes.
 
 Previously, I graduated from Columbia with a B.A. in math, where I had the pleasure of working with [Prof. Tal Korem](https://www.koremlab.science) in the Program for Mathematical Genomics.
 
