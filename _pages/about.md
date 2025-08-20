@@ -25,14 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Aviya. I am currently a Ph.D. Candidate in Computational Biology working with [Prof. Olga Troyanskaya](https://function.princeton.edu). For the past two summers, I have also been interning at the [Flatiron Institute (Simons Foundation)](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/), where I've been working on some cool projects at the intersection of machine learning, computational genomics, and the genetics of neurodevelopment. Some of my work has been featured in the press ([Scientific American](https://www.scientificamerican.com/article/four-new-autism-subtypes-link-genes-to-childrens-traits/), [The Transmitter](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/), among others). Previously, I graduated from Columbia with a B.A. in math, where I had the pleasure of working with [Prof. Tal Korem](https://www.koremlab.science) in the Program for Mathematical Genomics.
+Hi! I'm Aviya. I am currently a Ph.D. Candidate in Computational Biology working with [Prof. Olga Troyanskaya](https://function.princeton.edu). For the past two summers, I have also been interning at the [Flatiron Institute (Simons Foundation)](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/), where I've been working on some cool projects at the intersection of machine learning, computational genomics, and the genetics of neurodevelopment. 
 
-My priorities at the moment are:
+Some of my work has been featured in the press ([Scientific American](https://www.scientificamerican.com/article/four-new-autism-subtypes-link-genes-to-childrens-traits/), [The Transmitter](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/), among others). 
+
+Previously, I graduated from Columbia with a B.A. in math, where I had the pleasure of working with [Prof. Tal Korem](https://www.koremlab.science) in the Program for Mathematical Genomics.
+
+I'm seeking to do meaningful work with genuine potential for impact on human health. My priorities at the moment are:
 
 - AI4Science
 - precision health & medicine
 - (learning about) drug development
-
-I'm always seeking to do meaningful work with genuine potential for translational impact on human health!
 
 Outside of work, I'm currently thinking about species conservation (check out the [manatees in Florida](https://www.visitmanateelagoon.com)) and capybaras (fun fact: I was a huge capybara fan even before they went viral). In college, I fostered several aquatic snails (Shrimpy, Barbara, and Night). [#FreeEdTheZebra](https://www.npr.org/2025/06/09/nx-s1-5427942/runaway-pet-zebra-captured-tennessee)
