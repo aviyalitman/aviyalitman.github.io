@@ -25,14 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Aviya. I am currently a Ph.D. Candidate in Computational Biology working with [Prof. Olga Troyanskaya](https://function.princeton.edu). For the past two summers, I have also been interning at the [Flatiron Institute (Simons Foundation)](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/), where I've been working on some cool projects at the intersection of machine learning, computational genomics, and neurodevelopment. Previously, I graduated from Columbia with a B.A. in math, where I had the pleasure of working with [Prof. Tal Korem](https://www.koremlab.science) in the Program for Mathematical Genomics.
+Hi! I'm Aviya. I am a PhD candidate at Princeton Computational Biology, advised by Prof. [Olga Troyanskaya](https://function.princeton.edu) and affiliated with the [Flatiron Institute (Simons Foundation)](https://www.simonsfoundation.org/flatiron/center-for-computational-biology/). Some of my work has been featured in the press ([Scientific American](https://www.scientificamerican.com/article/four-new-autism-subtypes-link-genes-to-childrens-traits/), [The Transmitter](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/), among others) and in [podcasts](https://podcasts.apple.com/us/podcast/autism-science-foundation-weekly-science-report/id1017003702?i=1000719374439).
 
-Some of my work has been featured in the press ([Scientific American](https://www.scientificamerican.com/article/four-new-autism-subtypes-link-genes-to-childrens-traits/), [The Transmitter](https://www.thetransmitter.org/spectrum/untangling-biological-threads-from-autisms-phenotypic-patchwork-reveals-four-core-subtypes/), among others) and in [podcasts](https://podcasts.apple.com/us/podcast/autism-science-foundation-weekly-science-report/id1017003702?i=1000719374439). I particularly enjoyed [this take](https://www.thetransmitter.org/spectrum/the-spectrum-goes-multidimensional-in-search-of-autism-subtypes/), which argues that our approach of parsing multidimensional heterogeneity may improve clinical trial outcomes.
+I work on deploying AI to accelerate novel and clinically-relevant discoveries for biomedical applications. I'm always seeking to do meaningful work with genuine potential for impact on human health. Some things I think about are:
+- How can AI capture and decode biological complexity across the central dogma? 
+- How to effectively parse multidimensional biological heterogeneity by integrating across many different massive and diverse data modalities?
+- How to accelerate biomedical research by automating and standardizing data analysis workflows?
 
-I'm seeking to do meaningful work with genuine potential for impact on human health. My priorities at the moment are:
-
-- AI4Science
-- precision health & medicine
-- (learning about) drug development
+Previously, I graduated from Columbia with a B.A. in math, and had the pleasure of working with Prof. [Tal Korem](https://www.koremlab.science) and Prof. [Moran Yassour](https://www.yassourlab.com). 
 
 Outside of work, I'm currently thinking about [species conservation](https://www.visitmanateelagoon.com) and capybaras (fun fact: I was a huge capybara fan even before they went viral). In college, I fostered several aquatic snails 🐌 (Shrimpy, Barbara, and Night). [#FreeEdTheZebra](https://www.npr.org/2025/06/09/nx-s1-5427942/runaway-pet-zebra-captured-tennessee)
