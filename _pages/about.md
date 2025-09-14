@@ -31,8 +31,8 @@ My research lives at the intersection of AI and biomedicine; I build models that
 
 I’m driven by a simple question: how can we make AI actually useful for human health? That means I spend my days thinking about:
 
-- Teaching AI to read biology across the central dogma.
-- Making sense of messy, multidimensional biological heterogeneity.
+- Teaching AI to read and interpret biology across the central dogma.
+- Making sense of messy, multidimensional biological and clinical heterogeneity.
 - Building scalable, standardized pipelines to make biomedical research faster, cleaner, and reproducible by default.
 
 Before Princeton, I studied math at Columbia, where I worked with [Tal Korem](https://www.koremlab.science) and [Moran Yassour](https://www.yassourlab.com).
