@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My [new paper is now up](https://www.biorxiv.org/content/10.1101/2025.09.18.677148v1) 🔥 tldr: GNNs co-trained on DNA sequence + transcriptomes to decode isoform regulation.
+New [preprint](https://www.biorxiv.org/content/10.1101/2025.09.18.677148v1) is now up🔥 tldr: GNNs co-trained on DNA sequence + transcriptomes to decode isoform regulation.
