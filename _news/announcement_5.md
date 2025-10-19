@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My [new paper is now up](https://www.biorxiv.org/content/10.1101/2025.09.18.677148v1) 🔥 tldr: AI co-trained on DNA sequence + transcriptomes to crack isoform regulation.
+My [new paper is now up](https://www.biorxiv.org/content/10.1101/2025.09.18.677148v1) 🔥 tldr: GNNs co-trained on DNA sequence + transcriptomes to decode isoform regulation.
