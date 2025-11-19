@@ -29,7 +29,7 @@ Hi, I'm Aviya. I'm a PhD candidate in Computational Biology at Princeton, advise
 
 My work is guided by a simple goal: modeling biology to advance human health. I focus on:
 
-- Making sense of messy, high-dimensional biological and clinical data
+- Making sense of messy, high-dimensional genetic and clinical data
 - Helping AI become fluent in DNA
 - Building scalable, standardized AI pipelines to make biomedical research faster, cleaner, and reproducible by default
 
