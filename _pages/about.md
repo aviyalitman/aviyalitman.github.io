@@ -29,9 +29,9 @@ Hi, I'm Aviya. I'm a PhD candidate in Computational Biology at Princeton, advise
 
 My work is guided by a simple goal: modeling biology to advance human health. I focus on:
 
-- Making sense of messy, multidimensional biological and clinical heterogeneity
-- Teaching AI to read and interpret biology across the central dogma
-- Building scalable, standardized pipelines to make biomedical research faster, cleaner, and reproducible by default
+- Making sense of messy, high-dimensional biological and clinical data
+- Helping AI become fluent in DNA
+- Building scalable, standardized AI pipelines to make biomedical research faster, cleaner, and reproducible by default
 
 Along the way, my work has been featured in [Scientific American](https://www.scientificamerican.com/article/four-new-autism-subtypes-link-genes-to-childrens-traits/), [Forbes](https://www.forbes.com/sites/williamhaseltine/2025/07/21/why-autism-may-not-be-one-condition-but-many/), [The Transmitter](https://www.thetransmitter.org/spectrum/the-spectrum-goes-multidimensional-in-search-of-autism-subtypes/), among others, and even discussed on [podcasts](https://podcasts.apple.com/us/podcast/autism-science-foundation-weekly-science-report/id1017003702?i=1000719374439).
 
