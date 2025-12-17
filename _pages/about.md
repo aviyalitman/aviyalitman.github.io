@@ -33,7 +33,7 @@ My work is guided by a simple goal: modeling biology to advance human health. I 
 - Helping AI become fluent in DNA
 - Building scalable, standardized AI pipelines to make biomedical research faster, cleaner, and reproducible by default
 
-Along the way, my work has been featured in [Scientific American](https://www.scientificamerican.com/article/four-new-autism-subtypes-link-genes-to-childrens-traits/), [Forbes](https://www.forbes.com/sites/williamhaseltine/2025/07/21/why-autism-may-not-be-one-condition-but-many/), [The Transmitter](https://www.thetransmitter.org/spectrum/the-spectrum-goes-multidimensional-in-search-of-autism-subtypes/), among others, and even discussed on [podcasts](https://podcasts.apple.com/us/podcast/autism-science-foundation-weekly-science-report/id1017003702?i=1000719374439).
+Along the way, my work has been featured in [The Economist](https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition), [Scientific American](https://www.scientificamerican.com/article/four-new-autism-subtypes-link-genes-to-childrens-traits/), [Forbes](https://www.forbes.com/sites/williamhaseltine/2025/07/21/why-autism-may-not-be-one-condition-but-many/), [The Transmitter](https://www.thetransmitter.org/spectrum/the-spectrum-goes-multidimensional-in-search-of-autism-subtypes/), among others, and even discussed on [podcasts](https://podcasts.apple.com/us/podcast/autism-science-foundation-weekly-science-report/id1017003702?i=1000719374439).
 
 Before Princeton, I studied math at Columbia, and I worked with [Tal Korem](https://www.koremlab.science), [Itsik Pe'er](https://www.engineering.columbia.edu/faculty-staff/directory/itsik-peer), and [Moran Yassour](https://www.yassourlab.com).
 
