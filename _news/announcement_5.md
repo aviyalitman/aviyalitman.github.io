@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-21 15:59:00-0400
+date: 2026-01-16 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-New [preprint](https://www.biorxiv.org/content/10.1101/2025.09.18.677148v1) is now up🔥 tldr: GNNs co-trained on DNA sequence + transcriptomes to decode isoform regulation.
+My paper is [now out](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00382-9) in Cell Genomics! tldr: GNNs co-trained on DNA sequence + transcriptomes to decode isoform regulation🧬
