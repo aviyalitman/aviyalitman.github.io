@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper is [now out](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00382-9) in Cell Genomics! tldr: GNNs co-trained on DNA sequence + transcriptomes to decode isoform regulation🧬
+My paper is [now out](<https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00382-9>) in Cell Genomics! tldr: GNNs co-trained on DNA sequence + transcriptomes to decode isoform regulation🧬
